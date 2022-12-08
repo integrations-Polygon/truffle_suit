@@ -45,3 +45,5 @@ truffle run verify 'contractname' --network testnet
 ```sh
 truffle run verify 'contractname' contract-address --network testnet
 ```
+
+you can customize gas fee on migrations files
